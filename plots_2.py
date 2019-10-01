@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 fig, ax = plt.subplots()
 
 '''Simple scatter plot'''
